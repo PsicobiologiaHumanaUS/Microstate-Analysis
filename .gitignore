@@ -1,0 +1,13 @@
+
+# Original dataset: not distributed in this repository
+Dataset_V2/
+
+# Generated analysis outputs
+Results/*
+
+# Keep folder documentation
+!Results/README.md
+
+# MATLAB temporary files
+*.asv
+*.log
